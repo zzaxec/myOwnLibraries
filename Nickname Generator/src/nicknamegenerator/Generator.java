@@ -1,4 +1,4 @@
-package model;
+package nicknamegenerator;
 
 import java.util.ArrayList;
 import java.util.Random;
